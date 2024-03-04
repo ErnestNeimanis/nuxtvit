@@ -1,9 +1,10 @@
 <script setup>
 
 </script>
+
 <template>
 
-   <header>
+    <header>
         <nav>
             <ul>
                 <li>
@@ -20,7 +21,7 @@
     </header>
 
     <div>productsproducts
-        <div>products layout</div>
+        <div class="bg-black text-white">products layout</div>
         <slot />
     </div>
 
